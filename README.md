@@ -21,11 +21,11 @@ Cybersecurity student portfolio with hands-on security projects
 
 ## 🛠 Tools
 - Splunk  
-- ELK Stack  
 - Wireshark  
 - Nmap  
 - Burp Suite  
-- Metasploit (Basic)  
+- Metasploit
+- Nessus  
 
 ---
 
@@ -36,14 +36,15 @@ Cybersecurity student portfolio with hands-on security projects
 - **Network Scanning & Enumeration using Nmap**  
   - Identified open ports, services, and potential security risks  
 
-- **Vulnerability Assessment & Reporting**  
-  - Conducted vulnerability scans and documented findings with remediation steps  
+- **Vulnerability Assessment & Ethical Hacking Practice**  
+  - Identified vulnerabilities and documented findings with remediation steps  
+ 
 
 ---
 
 ## 🎯 Interests
 - Threat Detection & Incident Handling  
-- Blue Team Operations  
+- Ethical Hacking 
 - Automotive Cybersecurity (Learning)  
 
 ---
